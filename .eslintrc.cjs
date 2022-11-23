@@ -24,6 +24,8 @@ module.exports = {
     'react/prop-types': 0,
     'react/function-component-definition': 'off',
     'react/require-default-props': 0,
+    'no-restricted-exports': 'off',
+    'import/prefer-default-export': 0,
   },
   settings: {
     'import/resolver': {
